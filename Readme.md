@@ -9,3 +9,6 @@ Sapiens Depth generates the depth:
 
 Depth2STL converts the python array to a STL file:
 ![image](https://github.com/user-attachments/assets/a5f15965-9ba1-46d2-8668-ff98f1719ea4)
+
+[Looking Glass Portrait](https://lookingglassfactory.com/looking-glass-portrait) Holigram Video:<br>
+https://youtube.com/shorts/LgsWXSPEOpA?si=DvDZdhqgv_wVWFHL
