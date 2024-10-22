@@ -1,3 +1,5 @@
+You can now use an AI model to guess the depth of a 2D image. I am creating utilities that convert the results.
+
 Use an AI model to generate an npy file for the depth. Meta's Sapiens project is nice:
 
 https://huggingface.co/spaces/facebook/sapiens-depth
