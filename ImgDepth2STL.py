@@ -66,7 +66,8 @@ def depth_to_mesh(image_path, output_stl, depth_scale=200, xy_scale=0.1):
     print(f"STL file saved as {output_stl}")
 
 # Path to the depth map image and output STL file
-image_path = '/Users/mike/Downloads/Putters - plasma_r.png'
-output_stl = '/Users/mike/Downloads/Putters - plasma_r.stl'
+image_path = r"C:\Users\mtwohey\Downloads\Mike Run Depth.png"
+# Replace png with stl
+output_stl = image_path.replace(".png", ".stl")
 
 depth_to_mesh(image_path, output_stl)
